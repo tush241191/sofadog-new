@@ -11,7 +11,7 @@
     src: url('../public/font/Comfortaa/static/Comfortaa-Bold.ttf') format('truetype');
 }
 
-.font-comfortaa-bold{
+.font-comfortaa-bold,title{
     font-family: 'Comfortaa-Bold';
 }
 
