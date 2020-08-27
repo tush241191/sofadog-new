@@ -33,9 +33,9 @@ const Home = () => (
 
 					<main className="mx-auto max-w-screen-xl px-4 sm:px-6">
 						<div className="text-center h-screen flex items-center justify-center">
-							<h2 className="text-4xl -mt-1/3 md:-mt-28 grid tracking-tight leading-10 font-extrabold text-gray-200 sm:text-5xl sm:leading-none md:text-6xl">
-								<span className="text-sm font-semibold uppercase tracking-wide text-gray-100 sm:text-base lg:text-sm xl:text-base md:pb-5">Coming soon</span>
-								News is dead long live video news
+							<h2 className="text-xl -mt-1/3 sm:-mt-28 font-comfortaa-bold grid tracking-tight leading-10 font-thin text-gray-200 sm:text-4xl md:leading-none lg:text-6xl">
+								<span className="text-lg font-comfortaa-bold tracking-wide text-gray-100 sm:text-2xl lg:text-base xl:text-4xl md:pb-5">Coming Soon</span>
+								News.Is.Dead.Long.Live.Video.News
 							</h2>
 						</div>
 					</main>

@@ -1,13 +1,21 @@
 /* purgecss start ignore */
-@tailwind  base;
-@tailwind  components;
+
+@tailwind base;
+@tailwind components;
 /* purgecss end ignore */
 
 @tailwind utilities;
 
-.main-body{
-    font-family: 'Helvetica Neue Thin';
-    color: #fff;
+@font-face {
+    font-family: 'Comfortaa-Bold';
+    src: url('../public/font/Comfortaa/static/Comfortaa-Bold.ttf') format('truetype');
+}
+
+.font-comfortaa-bold{
+    font-family: 'Comfortaa-Bold';
+}
+
+.main-body {
     background-color: #622A90;
-    background-image: linear-gradient(to right, #622A90 0%, #BA3095 95%),linear-gradient(rgba(0, 0, 0, 1), rgba(0, 0, 0, 1));
+    background-image: linear-gradient(to right, #622A90 0%, #BA3095 95%), linear-gradient(rgba(0, 0, 0, 1), rgba(0, 0, 0, 1));
 }
