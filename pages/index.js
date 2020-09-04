@@ -34,8 +34,12 @@ const Home = () => (
 					<main className="mx-auto max-w-screen-xl px-4 sm:px-6">
 						<div className="text-center h-screen flex items-center justify-center">
 							<h2 className="text-xl -mt-1/3 sm:-mt-28 font-comfortaa-bold grid tracking-tight leading-10 font-thin text-gray-200 sm:text-4xl md:leading-none lg:text-6xl">
-								<span className="text-lg font-comfortaa-bold tracking-wide text-gray-100 sm:text-2xl lg:text-base xl:text-4xl md:pb-10">COMING SOON</span>
-								News.Is.Dead<br/><br/>Long.Live.Video.News
+								<span className="text-lg font-comfortaa-bold tracking-wide text-gray-100 sm:text-2xl lg:text-base xl:text-4xl md:pb-8">NEW WEBSITE COMING SOON</span>
+								<span className="grid">
+									<label className="mb-5">News.Is.Dead</label>
+									<label>Long.Live.Video.News</label>
+								</span>
+								
 							</h2>
 						</div>
 					</main>
